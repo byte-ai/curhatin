@@ -1,0 +1,9 @@
+<html>
+	<h1> Curhatin </h1>
+	<form action="{{ url_for('predict') }}" method="POST">
+			<input name="sentence" type="text">
+			<button type="submit">curhat!!</button>
+	</form>
+	<p> {{ data }} </p>
+
+</html>
