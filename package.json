@@ -1,0 +1,11 @@
+{
+  "name": "curhatin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/byte-ai/curhatin.git",
+  "author": "afrizal0 <wikimedicx4504@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.2.6"
+  }
+}
